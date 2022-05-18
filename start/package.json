@@ -24,7 +24,9 @@
   },
   "homepage": "",
   "dependencies": {
-    "@metamask/onboarding": "^1.0.1"
+    "@looksrare/sdk": "^0.6.0",
+    "@metamask/onboarding": "^1.0.1",
+    "ethers": "^5.6.6"
   },
   "devDependencies": {
     "@metamask/eslint-config": "^2.0.0",
